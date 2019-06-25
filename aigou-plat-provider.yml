@@ -22,7 +22,7 @@ server:
 spring:
   profiles: test
   application:
-    name: AIGOU-PLAT
+    name: AIGOU-PLAT-TEST
 eureka:
   client:
     serviceUrl:
